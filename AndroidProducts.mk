@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_natrium.mk
+    $(LOCAL_DIR)/aicp_natrium.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_natrium-user \
-    lineage_natrium-userdebug \
-    lineage_natrium-eng
+    aicp_natrium-user \
+    aicp_natrium-userdebug \
+    aicp_natrium-eng
